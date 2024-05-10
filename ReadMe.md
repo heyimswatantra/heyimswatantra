@@ -42,3 +42,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/heyimswatantra/heyimswatantra/output/snake.svg" alt="Snake animation" />
+
+###
