@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! <br>My name is Swatantra<br>I'm a MERN stack developer</h2>
+<h2 align="center">Hi 👋! <br>My name is Swatantra<br>I'm a Full Stack Developer</h2>
 
 ###
 
